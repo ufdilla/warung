@@ -1,0 +1,53 @@
+{
+  "total": 8,
+  "data": [
+    {
+      "_id": "5902f93f13fbc41b0149efb4",
+      "kode": 1,
+      "nama": "gula",
+      "__v": 0
+    },
+    {
+      "_id": "5902f94b13fbc41b0149efb5",
+      "kode": 2,
+      "nama": null,
+      "__v": 0
+    },
+    {
+      "_id": "5902f95113fbc41b0149efb6",
+      "kode": 3,
+      "nama": "beras",
+      "__v": 0
+    },
+    {
+      "_id": "5902f95913fbc41b0149efb7",
+      "kode": 4,
+      "nama": "susu",
+      "__v": 0
+    },
+    {
+      "_id": "5902f9b2fe54af1b5ede82f1",
+      "kode": 5,
+      "nama": "telur ayam",
+      "__v": 0
+    },
+    {
+      "_id": "59117eecc9cfb31d41982f8a",
+      "kode": 23,
+      "nama": "gas 3 kg",
+      "__v": 0
+    },
+    {
+      "_id": "59117f00c9cfb31d41982f8b",
+      "kode": 24,
+      "nama": "galon air",
+      "__v": 0
+    },
+    {
+      "_id": "59127ab4b2e4990fa24362d5",
+      "kode": 25,
+      "nama": "mie instan",
+      "__v": 0
+    }
+  ]
+}

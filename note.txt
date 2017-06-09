@@ -1,0 +1,14 @@
+per tgl 28 april 2017
+get :   -by id
+	-tampil count data
+input : -auto increment
+	-tgl default now
+edit by id
+using middleware
+
+per tgl 23 mei 2017
+belajar lodash
+belajar agregate
+pake helmet
+pake validasi mongoose
+

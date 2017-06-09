@@ -1,0 +1,38 @@
+{
+  "name": "warung",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precommit": "grunt lint"
+  }
+  },
+  "author": "umi",
+  "license": "ISC",
+  "dependencies": {
+    "amanda": "^0.5.1",
+    "assert": "^1.4.1",
+    "async": "^2.4.0",
+    "body-parser": "^1.17.1",
+    "diss": "^1.0.1",
+    "express": "^4.15.2",
+    "express-validator": "^3.2.0",
+    "helmet": "^3.6.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mongoose": "^4.9.4",
+    "mongoose-auto-increment": "^5.0.1",
+    "mongoose-paginate": "^5.0.3",
+    "mongoose-timestamp": "^0.6.0",
+    "mongoose-unique-validator": "^1.0.5",
+    "morgan": "^1.8.1",
+    "password-hash": "^1.2.2",
+    "pify": "^2.3.0",
+    "promise": "^7.1.1",
+    "promise-map-series": "^0.2.3"
+  },
+  "devDependencies": {
+    "retyped-mongoose-auto-increment-tsd-ambient": "^5.0.1-0"
+  },
+  "description": ""
+}

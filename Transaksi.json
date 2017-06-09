@@ -1,0 +1,158 @@
+{
+  "total": 6,
+  "data": [
+    {
+      "_id": "59118122c9cfb31d41982f8c",
+      "createdAt": "2017-05-09T08:43:14.599Z",
+      "updatedAt": "2017-05-09T08:43:14.599Z",
+      "idTransaksi": 35,
+      "id_item": {
+        "_id": "5902f93f13fbc41b0149efb4",
+        "kode": 1,
+        "nama": "gula",
+        "__v": 0
+      },
+      "id_user": {
+        "_id": "590c4432ad5c5b22d2b02e96",
+        "username": "umi",
+        "password": "umi123",
+        "__v": 0,
+        "detail": {
+          "jenKel": "",
+          "noTlp": null,
+          "alamat": "",
+          "nama": ""
+        }
+      },
+      "jmlMasuk": 100,
+      "__v": 0
+    },
+    {
+      "_id": "59118175c9cfb31d41982f8d",
+      "createdAt": "2017-05-09T08:44:37.918Z",
+      "updatedAt": "2017-05-09T08:44:37.918Z",
+      "idTransaksi": 36,
+      "id_item": {
+        "_id": "5902f93f13fbc41b0149efb4",
+        "kode": 1,
+        "nama": "gula",
+        "__v": 0
+      },
+      "id_user": {
+        "_id": "590c4c08a0189d262d3968bf",
+        "username": "dilla",
+        "password": "umi123",
+        "__v": 0,
+        "detail": {
+          "jenKel": "",
+          "noTlp": null,
+          "alamat": "",
+          "nama": ""
+        }
+      },
+      "jmlKeluar": 2,
+      "__v": 0
+    },
+    {
+      "_id": "5911850efbe15b1fefe5a738",
+      "createdAt": "2017-05-09T08:59:58.324Z",
+      "updatedAt": "2017-05-09T09:10:33.910Z",
+      "idTransaksi": 37,
+      "id_item": {
+        "_id": "5902f95913fbc41b0149efb7",
+        "kode": 4,
+        "nama": "susu",
+        "__v": 0
+      },
+      "id_user": {
+        "_id": "59118495fbe15b1fefe5a737",
+        "username": "vella",
+        "password": "vella123",
+        "__v": 0,
+        "detail": {
+          "jenKel": "",
+          "noTlp": null,
+          "alamat": "",
+          "nama": ""
+        }
+      },
+      "jmlKeluar": 2,
+      "__v": 0,
+      "tglTransaksi": null,
+      "jmlMasuk": null
+    },
+    {
+      "_id": "5912846761a0f318a977ebc9",
+      "createdAt": "2017-05-10T03:09:27.920Z",
+      "updatedAt": "2017-05-10T03:09:27.920Z",
+      "idTransaksi": 38,
+      "id_item": {
+        "_id": "5902f9b2fe54af1b5ede82f1",
+        "kode": 5,
+        "nama": "telur ayam",
+        "__v": 0
+      },
+      "id_user": {
+        "_id": "590c4432ad5c5b22d2b02e96",
+        "username": "umi",
+        "password": "umi123",
+        "__v": 0,
+        "detail": {
+          "jenKel": "",
+          "noTlp": null,
+          "alamat": "",
+          "nama": ""
+        }
+      },
+      "jmlMasuk": 100,
+      "__v": 0
+    },
+    {
+      "_id": "591284a061a0f318a977ebca",
+      "createdAt": "2017-05-10T03:10:24.719Z",
+      "updatedAt": "2017-05-10T03:10:24.719Z",
+      "idTransaksi": 39,
+      "id_item": null,
+      "id_user": {
+        "_id": "590c4432ad5c5b22d2b02e96",
+        "username": "umi",
+        "password": "umi123",
+        "__v": 0,
+        "detail": {
+          "jenKel": "",
+          "noTlp": null,
+          "alamat": "",
+          "nama": ""
+        }
+      },
+      "jmlKeluar": 8,
+      "__v": 0
+    },
+    {
+      "_id": "59128712edf1a81a0f740c24",
+      "createdAt": "2017-05-10T03:20:50.407Z",
+      "updatedAt": "2017-05-10T03:20:50.407Z",
+      "idTransaksi": 47,
+      "id_item": {
+        "_id": "5902f9b2fe54af1b5ede82f1",
+        "kode": 5,
+        "nama": "telur ayam",
+        "__v": 0
+      },
+      "id_user": {
+        "_id": "590c4432ad5c5b22d2b02e96",
+        "username": "umi",
+        "password": "umi123",
+        "__v": 0,
+        "detail": {
+          "jenKel": "",
+          "noTlp": null,
+          "alamat": "",
+          "nama": ""
+        }
+      },
+      "jmlKeluar": 2,
+      "__v": 0
+    }
+  ]
+}

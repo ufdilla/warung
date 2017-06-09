@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "590c4432ad5c5b22d2b02e96",
+    "username": "umi",
+    "password": "umi123",
+    "__v": 0,
+    "detail": {
+      "jenKel": "",
+      "noTlp": null,
+      "alamat": "",
+      "nama": ""
+    }
+  },
+  {
+    "_id": "590c4c08a0189d262d3968bf",
+    "username": "dilla",
+    "password": "umi123",
+    "__v": 0,
+    "detail": {
+      "jenKel": "",
+      "noTlp": null,
+      "alamat": "",
+      "nama": ""
+    }
+  },
+  {
+    "_id": "59118495fbe15b1fefe5a737",
+    "username": "vella",
+    "password": "vella123",
+    "__v": 0,
+    "detail": {
+      "jenKel": "",
+      "noTlp": null,
+      "alamat": "",
+      "nama": ""
+    }
+  },
+  {
+    "_id": "591299d111152710ddc274bf",
+    "username": "lisa",
+    "password": "lisa123",
+    "__v": 0,
+    "detail": {
+      "jenKel": "",
+      "noTlp": null,
+      "alamat": "",
+      "nama": ""
+    }
+  }
+]
